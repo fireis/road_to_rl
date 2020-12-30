@@ -12,3 +12,7 @@ To guide me on this journey, I will use the book *Artificial Intelligence: A mod
 
 * CARLA: since my Udacity times, I've been dreaming of using the CARLA simulator to apply RL concepts. At the end of this journey, I want to be able to create even the most simple agent to drive in the CARLA simulator;
 * Auto-playing games: I've always loved projects where an agent is used to play a specific game, being Super Mario, Flappy Bird, or even Starcraft. 
+
+## Reference Links
+
+* Exercises answers: <https://aimacode.github.io/aima-exercises/>
