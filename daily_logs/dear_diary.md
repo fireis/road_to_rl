@@ -26,6 +26,10 @@ To test the installation, I've executed the code for a random agent, available i
 
 * <https://spinningup.openai.com/en/latest/spinningup/rl_intro.html>: the OpenAI team has a free course on RL. It seems to start simple, and I think it makes sense for me to take a look after diving into chapter 3 of the AI book, as I want a good classical introduction.
 
-## Day 2 - 2021/01/01
+## Day 1 - 2021/01/01
 
 * Started reading chapter 3 from the book. Read sections 3.1 and 3.2.
+
+## Day 2 - 2021/01/02
+
+* Read section 3.3.
