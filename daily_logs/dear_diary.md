@@ -33,3 +33,10 @@ To test the installation, I've executed the code for a random agent, available i
 ## Day 2 - 2021/01/02
 
 * Read section 3.3.
+## Day 3 - 2020/01/03
+
+* Found a cool project to test agents, <https://www.pommerman.com/>. This is something for the somewhat far future, but seems good to keep anyway.
+
+## Day 4 - 2020/01/05
+
+* I found a course on RL in (Coursera)[https://www.coursera.org/learn/fundamentals-of-reinforcement-learning/home/welcome] and, although my plan was to follow the AI book for a broader start, I've decided to check if the course is any good to begin with. So I've taken the three initial lessons.
