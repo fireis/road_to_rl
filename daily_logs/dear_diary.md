@@ -40,3 +40,7 @@ To test the installation, I've executed the code for a random agent, available i
 ## Day 4 - 2020/01/05
 
 * I found a course on RL in (Coursera)[https://www.coursera.org/learn/fundamentals-of-reinforcement-learning/home/welcome] and, although my plan was to follow the AI book for a broader start, I've decided to check if the course is any good to begin with. So I've taken the three initial lessons.
+
+## Days 5 - 8 - 2020/01/09
+
+* Finished Week 1 from (Coursera RL Course)[https://www.coursera.org/learn/fundamentals-of-reinforcement-learning/home/welcome]
