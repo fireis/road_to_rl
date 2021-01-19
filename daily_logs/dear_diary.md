@@ -56,9 +56,13 @@ In my study so far, I've seen almost the same subject from two distinct perspect
 
 As my goal is to experiment with hands-on projects, specifically in the reinforcement learning side, the Coursera specialization seems to be the most adequate for my current moment.
 
-## Day X - 2021/01/17
+## Day 10 - 2021/01/17
 
 * Ok, I forgot to commit during the past week. But I finished Week 2 of the [Coursera RL Course](https://www.coursera.org/learn/fundamentals-of-reinforcement-learning/home/welcome);
 * I think I'm going to reset my day counter to be more fair;
 * Today I've played a bit with OpenAi Gym, as I want to apply the course concepts to the environments in the Gym. Hence I need to understand the gym structure;
 * I've played with the [Cart Pole](https://gym.openai.com/docs/) example from the openai gym. Then I've tried to implement a simple MDP agent, but I achieved only a small progress. [This lib](https://github.com/BlackHC/mdp) may be helpful in the future.
+
+## Day 11 - 2021/01/18
+
+* I realised there was still one additional assignement on week 2, so I finished it today.
