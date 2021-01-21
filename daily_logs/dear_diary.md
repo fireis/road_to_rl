@@ -66,3 +66,7 @@ As my goal is to experiment with hands-on projects, specifically in the reinforc
 ## Day 11 - 2021/01/18
 
 * I realised there was still one additional assignement on week 2, so I finished it today.
+  
+## Day 12 - 2021/01/21
+
+* Started the Week 3 of the course and started my new physical notebook as this tends to help me really understand the concepts.
