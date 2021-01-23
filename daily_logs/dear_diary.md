@@ -70,3 +70,11 @@ As my goal is to experiment with hands-on projects, specifically in the reinforc
 ## Day 12 - 2021/01/21
 
 * Started the Week 3 of the course and started my new physical notebook as this tends to help me really understand the concepts.
+
+## Day 13 - 2021/01/22
+
+* Advanced on week 3.
+
+## Day 14 - 2021/01/23
+
+* Finished week 3! Only one more left to go in this course.
