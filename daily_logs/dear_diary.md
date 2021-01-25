@@ -78,3 +78,7 @@ As my goal is to experiment with hands-on projects, specifically in the reinforc
 ## Day 14 - 2021/01/23
 
 * Finished week 3! Only one more left to go in this course.
+  
+## Day 15 - 2021/01/25
+
+* Almost done with the classes of teh fourth week! Excited for the lab in the week. 
