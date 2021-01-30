@@ -81,8 +81,12 @@ As my goal is to experiment with hands-on projects, specifically in the reinforc
   
 ## Day 15 - 2021/01/25
 
-* Almost done with the classes of teh fourth week! Excited for the lab in the week. 
+* Almost done with the classes of the fourth week! Excited for the lab in the week. 
 
 ## Days 16 - 19 - 2021/01/26 - 2021/01/29
 
 * Finished week 4, with the exception of the programming challenge.
+  
+## Day 20 - 2021/01/30
+
+* Finished the Fundamentals course! Now starting the second course in the specialization.
