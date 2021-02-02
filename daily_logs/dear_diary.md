@@ -94,3 +94,7 @@ As my goal is to experiment with hands-on projects, specifically in the reinforc
 ## Day 21 - 2021/01/31
 
 * Did half of the lesson content of the first week of the new course.
+
+## Day 22 - 2021/02/01
+
+* Finished Week 1.
