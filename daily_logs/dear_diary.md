@@ -98,3 +98,7 @@ As my goal is to experiment with hands-on projects, specifically in the reinforc
 ## Day 22 - 2021/02/01
 
 * Finished Week 1.
+
+## Day 23 - 2021/02/03
+
+* Started the TD lesson.
