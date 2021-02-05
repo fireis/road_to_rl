@@ -106,3 +106,7 @@ As my goal is to experiment with hands-on projects, specifically in the reinforc
 ## Day 24 - 2021/02/04
 
 * Finished Week 2 videos and quizz. Started the programming lab.
+
+## Day 25 - 2021/02/05
+
+* Continued on the programming lab.
