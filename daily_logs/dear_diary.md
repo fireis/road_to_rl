@@ -110,3 +110,7 @@ As my goal is to experiment with hands-on projects, specifically in the reinforc
 ## Day 25 - 2021/02/05
 
 * Continued on the programming lab.
+
+## Day 26 - 2021/02/06
+
+* Finished the programming lab. The most challenging part was to actually understand the environment.
