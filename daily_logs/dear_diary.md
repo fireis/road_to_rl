@@ -118,3 +118,7 @@ As my goal is to experiment with hands-on projects, specifically in the reinforc
 ## Day 27 - 2021/02/07
 
 * Finished the Week 3 videos, text and quizz. Now I need to finish the programming lab.
+
+## Day 28 - 2021/02/08
+
+* Finished programing Lab! Week 3 is done!
