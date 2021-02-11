@@ -122,3 +122,7 @@ As my goal is to experiment with hands-on projects, specifically in the reinforc
 ## Day 28 - 2021/02/08
 
 * Finished programing Lab! Week 3 is done!
+
+## Days 29 - 31 - 2021/02/09 - 2021/02/11
+
+* Completed Week 4. The only thing that remains in this course are the quizzes.
