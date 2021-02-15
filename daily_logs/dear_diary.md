@@ -126,3 +126,6 @@ As my goal is to experiment with hands-on projects, specifically in the reinforc
 ## Days 29 - 31 - 2021/02/09 - 2021/02/11
 
 * Completed Week 4. The only thing that remains in this course are the quizzes.
+
+## Day 32 - 2021/02/15
+* Completed Week 4 quizz and started the lab.
