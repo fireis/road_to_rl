@@ -129,3 +129,6 @@ As my goal is to experiment with hands-on projects, specifically in the reinforc
 
 ## Day 32 - 2021/02/15
 * Completed Week 4 quizz and started the lab.
+
+## Day 33 - 2021/02/16
+* Finished the second RL course!
